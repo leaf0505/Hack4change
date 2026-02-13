@@ -8,3 +8,5 @@ print("Merci pour votre attention")
 
 print("Jamaican Oxtail is the best dish in Moncton!")
 print("tu es gentille ")
+print("helll")
+print("c'est celia")
